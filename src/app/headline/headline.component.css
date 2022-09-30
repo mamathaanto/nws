@@ -1,0 +1,9 @@
+.card{
+    margin:20px;
+    background-color: aliceblue;
+    color:brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+    border-color: white;
+
+}
